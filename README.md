@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm hfu
 
-<!--
-**hfu/hfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer passionate about geospatial technology and international development ❤️‍🔥
 
-Here are some ideas to get you started:
+🗺️ I lead the UN Smart Maps Group, the seventh domain working group under the UN Open GIS Initiative.  
+🚀 I also lead the Quick Mapping Project, a collaboration between JICA and OpenStreetMap.  
+🧩 I specialize in vector tiles and portable, distributed mapping, such as UNVT POD.  
+🌐 I serve as Senior Advisor on Geospatial Information for JICA. I have supported 12+ international development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Favorite technologies:**
+- PMTiles
+- MapLibre GL JS
+- Unix CLI tools like Tippecanoe and GDAL
+- Generative AI
+
+🤝 My core values are openness, collaboration, innovation, and sustainability.
+
+🌐 [UN Smart Maps Group](https://unopengis.github.io/smartmaps/) | 💼 [JICA](https://www.jica.go.jp/) | 📧 [GitHub/hfu](https://github.com/hfu)
+
+✨ *Keep web maps open for a better world.*
