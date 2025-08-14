@@ -2,6 +2,7 @@
 
 I'm an engineer passionate about geospatial technology and international development ❤️‍🔥
 
+💙 I started co-charing the UN Open GIS Initiative since July 2025. 
 🗺️ I lead the UN Smart Maps Group, the seventh domain working group under the UN Open GIS Initiative.  
 🚀 I also lead the Quick Mapping Project, a collaboration between JICA and OpenStreetMap.  
 🧩 I specialize in vector tiles and portable, distributed mapping, such as UNVT POD.  
