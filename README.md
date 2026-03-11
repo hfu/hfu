@@ -1,21 +1,35 @@
 # 👋 Hi, I'm hfu
 
-I'm an engineer passionate about geospatial technology and international development ❤️‍🔥
+**Self-sovereign mapping.**
+Run your own map. Keep web maps open.
 
-💙 I started co-charing the UN Open GIS Initiative since July 2025.  
-🗺️ I lead the UN Smart Maps Group, the seventh domain working group under the UN Open GIS Initiative.  
-🚀 I also lead the Quick Mapping Project, a collaboration between JICA and OpenStreetMap.  
-🧩 I specialize in vector tiles and portable, distributed mapping, such as UNVT POD.  
-🌐 I serve as Senior Advisor on Geospatial Information for JICA. I have supported 12+ international development projects.
+I'm a geospatial engineer working at the intersection of open technology and international development.
 
-💡 **Favorite technologies:**
-- PMTiles
-- MapLibre GL JS
-- Unix CLI tools like Tippecanoe and GDAL
-- Generative AI
+## 🌍 What I work on
 
-🤝 My core values are openness, collaboration, innovation, and sustainability.
+* **Cloud-native, self-hosted mapping**
+* Vector tiles and portable mapping systems
+* Generative UI for spatial interfaces
+* Distributed geospatial infrastructure
 
-🌐 [UN Smart Maps Group](https://unopengis.github.io/smartmaps/) | 💼 [JICA](https://www.jica.go.jp/) | 📧 [GitHub/hfu](https://github.com/hfu)
+## 🛰️ Current roles
 
-✨ *Keep web maps open for a better world.*
+* Co-chair, **UN Open GIS Initiative**
+* Lead, **UN Smart Maps Group**
+* Lead, **Quick Mapping Project** (JICA × OpenStreetMap)
+* Senior Advisor on Geospatial Information, **JICA**
+
+## 🧰 Favorite technologies
+
+* PMTiles
+* MapLibre GL JS
+* Tippecanoe, GDAL, and Unix CLI tools
+* Generative AI
+
+## 🌐 Links
+
+* UN Smart Maps Group: https://unopengis.github.io/smartmaps/
+* JICA: https://www.jica.go.jp/
+* GitHub: https://github.com/hfu
+
+✨ *Run your own map.*
