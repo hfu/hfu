@@ -28,7 +28,5 @@ I'm a geospatial engineer working at the intersection of open technology and int
 ## 🌐 Links
 
 * UN Smart Maps Group: https://unopengis.github.io/smartmaps/
-* JICA: https://www.jica.go.jp/
-* GitHub: https://github.com/hfu
 
 ✨ *Run your own map.*
