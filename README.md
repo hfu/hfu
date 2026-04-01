@@ -16,8 +16,7 @@ I'm a geospatial engineer working at the intersection of open technology and int
 
 * Co-chair, **UN Open GIS Initiative**
 * Lead, **UN Smart Maps Group**
-* Lead, **Quick Mapping Project** (JICA × OpenStreetMap)
-* Senior Advisor on Geospatial Information, **JICA**
+* Head of Hokkaido Regional Survey Department, Geospatial Information Authority of Japan
 
 ## 🧰 Favorite technologies
 
