@@ -1,9 +1,6 @@
 # 👋 Hi, I'm hfu
 
-**Self-sovereign mapping.**
-Run your own map. Keep web maps open.
-
-I'm a geospatial engineer working at the intersection of open technology and international development.
+Cartographer rooted in robotics. Maps connect perception to action — I work on the structures that make that happen.
 
 ## 🌍 What I work on
 
