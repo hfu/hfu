@@ -15,6 +15,10 @@ Cartographer rooted in robotics. Maps connect perception to action — I work on
 * Lead, **UN Smart Maps Group**
 * Head of Hokkaido Regional Survey Department, Geospatial Information Authority of Japan
 
+## 🤝 Working with me
+
+* I tend to prepare things in advance. Please tell me if it feels too early. I am happy to slow down.
+
 ## 🧰 Favorite technologies
 
 * PMTiles
